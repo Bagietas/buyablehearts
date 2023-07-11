@@ -1,0 +1,8 @@
+name: Hearts
+version: '${project.version}'
+main: cf.bagieta.hearts.Hearts
+api-version: '1.20'
+depend:
+  - Essentials
+commands:
+  buyheart:
